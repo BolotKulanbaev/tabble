@@ -1,0 +1,23 @@
+.block {
+  background-color: orange;
+}
+ul {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+a {
+  display: block;
+  color: white;
+  padding: 3px 10px;
+  text-transform: uppercase;
+  margin: 0 15px;
+}
+
+.block a:hover {
+  background-color: blue;
+}
+
+ul li {
+  list-style: none;
+}

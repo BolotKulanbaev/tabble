@@ -1,0 +1,8 @@
+/* .table-block {
+  display: flex;
+  justify-content: center;
+} */
+.hero_table {
+  background-color: grey;
+  text-align: center;
+}

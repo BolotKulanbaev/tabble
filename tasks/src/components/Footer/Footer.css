@@ -1,0 +1,19 @@
+.footer_block {
+  background-color: rgb(53, 42, 21);
+}
+.footer_block ul {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+.footer_block a {
+  display: block;
+  color: white;
+  padding: 3px 10px;
+  text-transform: lowercase;
+  margin: 0 15px;
+}
+
+.footer_block ul li {
+  list-style: none;
+}
